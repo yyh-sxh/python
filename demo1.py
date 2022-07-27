@@ -15,3 +15,7 @@
 # print(bool([]))
 # print(bool(list())) #空列表
 # print(bool(set())) #空集合
+
+def add(a,b):
+    return a + b
+
